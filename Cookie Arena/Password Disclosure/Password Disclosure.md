@@ -15,4 +15,8 @@ Nothing else to see here so i tried to login with user account expose in debug a
 
 Look back at the description of the CTF, they point out the username value so i try when changing so i tried add more parameter in the url &username=admin and look at the response we get the value of the admin password
 
-![debug](3.png)
+![value](3.png)
+
+After getting value, i get into account and get the flag 🦫
+
+![flag](4.png)
