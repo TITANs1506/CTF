@@ -1,5 +1,6 @@
 # Challenge:
 
+![debug](img/7.png)
 
 # Solution:
 
