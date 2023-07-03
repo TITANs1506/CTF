@@ -5,6 +5,7 @@ Welcome to HOLA CTF
 FLAG Format: EHC{XXX}
 
 # Solution:
+From the beginning, the title is "Priviet", similar to привет (privet), which means "Hello" in Russian. And the protocol that has "Hello" in its packet is TLS, so we can start investigating this protocol first.
 
 We got a .pcap file. Open with `WireShark`, click on 1 packet and choose `Follow TCP Stream`
 
