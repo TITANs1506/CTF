@@ -65,15 +65,16 @@ That idea lead me to this: `f'{__import__('os')}'. Which can import the mighty o
 ```
 print(f'{__import__("os").system("ls -la")}')
 ```
-![1st](https://github.com/Katsumi1012/CTF/assets/90083485/e85e4b79-e915-4f1f-912e-10d60292246e)
+
+![image](https://github.com/Katsumi1012/CTF/assets/90083485/8dff413f-55df-400f-bdfb-5c78f57a9fbd)
 
 Notthing seem interesting here so cd out side to see
 
-![1st](https://github.com/Katsumi1012/CTF/assets/90083485/63d7b2e1-6308-42e4-8128-6a1d88a94aa0)
+![image](https://github.com/Katsumi1012/CTF/assets/90083485/7199cd74-95bb-4b92-8e16-1ba1936f8b3c)
 
 Oh we saw file call `flag.txt` lets get in there and see the flag 🚩
 
-![1st](https://github.com/Katsumi1012/CTF/assets/90083485/e3cb7092-ee3d-4915-80bc-5f75cd4fe0d0)
+![1st](https://github.com/Katsumi1012/CTF/assets/90083485/ecc17393-63a8-480b-8666-28bd4df150d7)
 
 
 # ENJOY 🤡
