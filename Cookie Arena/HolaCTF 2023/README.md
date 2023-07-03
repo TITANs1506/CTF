@@ -6,7 +6,7 @@
 * **[Sh1nn0](https://github.com/Katsumi1012)**
 * **[TITANs](https://github.com/TITANs1506)**
 * **[agj1ss](https://github.com/agj1ss)**
-* **[HaiPLV]**
+* **HaiPLV**
 
 ## Rank: 1 🏆🏆🏆🏆 ##
 
