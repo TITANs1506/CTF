@@ -59,7 +59,7 @@ def test_code(code):
 
 See the filter we know that we only can upload code with ascii, under 1000 words and not contain the word in `blocked`. But the blocked list can block all things??
 
-After testing some function, i realize that if the blocked word in s string, it not block any more. So a have an idea of using a very cool function of python. The `f-string`.
+After testing some function, i realize that if the blocked word in a string, it not block any more. So a have an idea of using a very cool function of python. The `f-string`.
 
 That idea lead me to this: `f'{__import__('os')}'. Which can import the mighty os function and i can do many things from now. Start this payload to see the current file:
 ```
