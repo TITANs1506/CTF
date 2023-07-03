@@ -16,7 +16,7 @@ MariaDB is very usefull and try a round with basic query and when trying this qu
 
 ![image](https://github.com/Katsumi1012/CTF/assets/90083485/dc6a86eb-6b0d-46c9-bc43-6ffd67628c58)
 
-Now, i know what i'm going to to. First check the number of columns and an error at column 5 so it has 4 columns
+Now, i know what i'm going to to. First check the number of columns and an error at column 5 so it has 4 columns `" ODER BY 5; -- -`
 
 ![image](https://github.com/Katsumi1012/CTF/assets/90083485/a00e51f2-c92e-43a0-94a6-872b6e9c06f4)
 
