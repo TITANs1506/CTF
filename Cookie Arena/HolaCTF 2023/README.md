@@ -16,4 +16,4 @@
 * **Miscellaneous**
   * **[HOLA Sanity Check](Miscellaneous/HOLA%20Sanity%20Check.md)**
   * **[HTTP Authentication](Miscellaneous/HTTP%20Authentication.md)**
-  * **[Priviet](/Miscellaneous/Priviet.md)**
+  * **[Priviet](Miscellaneous/Priviet.md)**
