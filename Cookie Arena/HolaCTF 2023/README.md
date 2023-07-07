@@ -1,4 +1,4 @@
-![image](https://github.com/Katsumi1012/CTF/assets/90083485/f94a828b-e0ad-4876-b319-a760c2d1d439)# HOLACTF 2023
+# HOLACTF 2023
 
 ## Team: Monke Prison 🐒🐒 ##
 
